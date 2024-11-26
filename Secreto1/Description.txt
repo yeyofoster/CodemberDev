@@ -1,0 +1,10 @@
+Base 64 encoded:
+QXF1w60gZXN0w6FzLi4uIMKhSnVzdG8gYSB0aWVtcG8hIFRlIGhhYmxvIGRlc2RlIGVsIHBsYW5ldGEgUHl0aG9uIGRlbCB1bml2ZXJzbyA2MTYuCgpBbGdvIGV4dHJhw7FvIGVzdMOhIG9jdXJyaWVuZG8uLi4gwqFFbCBwbGFuZXRhIEphdmFTY3JpcHQgc2UgaGEgdnVlbHRvIGxvY28geSBxdWllcmUgYXJyZWJhdGFyIG51ZXN0cm8gbHVnYXIhIEFsIHBhcmVjZXIsIHR1IHVuaXZlcnNvIHkgZWwgbcOtbyBzZSBlc3TDoW4gZnVzaW9uYW5kbywgeSBzaSBubyBoYWNlbW9zIGFsZ28gYWhvcmEsIHRvZG8gcG9kcsOtYSBjb2xhcHNhci4KCk5lY2VzaXRhbW9zIHF1ZSBub3MgZW52w61lcyBsYSBmZWNoYSBkZSBsYSBwcmltYSB2ZXJzacOzbiBkZSBDb2RlbWJlci5kZXYsIHBlcm8gZGViZSBlc3RhciBlbiBtaWxpc2VndW5kb3MuIFVzYSBlbCB0aWVtcG8gMDA6MDAgZW4gVVRDLiDCoURlYmVyw61hIGZ1bmNpb25hciEgwqFFbiBlc3RlIHVuaXZlcnNvIHVzYW1vcyB1biBmb3JtYXRvIGRpZmVyZW50ZSBhbCBkZSB1c3RlZGVzISDCoURhdGUgcHJpc2EhCgpUYWwgdmV6LCBzaSBsb2dyYW1vcyBhbGluZWFyIGVsIHRpZW1wbywgcG9kcmVtb3MgdGVuZXIgdW5hIG9wb3J0dW5pZGFkLiBQdWVkZXMgZW52aWFybG8gYXF1w606IGh0dHBzOi8vY29kZW1iZXIuZGV2L2FwaS9tdWx0aXZlcnNlLWNoYW5uZWwuanNvbj90aW1lPVt5b3VyX3RpbWVfbXNdCgrCoVLDoXBpZG8sIGVsIHRpZW1wbyBjb3JyZSBlbiBudWVzdHJhIGNvbnRyYSE
+
+Base 64 decoded:
+
+Aquí estás... ¡Justo a tiempo! Te hablo desde el planeta Python del universo 616.
+Algo extraño está ocurriendo... ¡El planeta JavaScript se ha vuelto loco y quiere arrebatar nuestro lugar! Al parecer, tu universo y el mío se están fusionando, y si no hacemos algo ahora, todo podría colapsar.
+Necesitamos que nos envíes la fecha de la prima versión de Codember.dev, pero debe estar en milisegundos. Usa el tiempo 00:00 en UTC. ¡Debería funcionar! ¡En este universo usamos un formato diferente al de ustedes! ¡Date prisa!
+Tal vez, si logramos alinear el tiempo, podremos tener una oportunidad. Puedes enviarlo aquí: https://codember.dev/api/multiverse-channel.json?time=[your_time_ms]
+¡Rápido, el tiempo corre en nuestra contra!

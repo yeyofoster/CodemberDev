@@ -1,4 +1,15 @@
-# Desafío 3: ¡Siguiendo la pista de la IA ΩMEGA!
+# Reto 3: ¡Siguiendo la pista de la IA ΩMEGA!
+
+## Logro:
+<p align="center">
+  <img src="../Images/slaughter.png" title="Slaughter icon" alt="Slaughter icon" height="100px">
+</p>
+<p align="center">
+  <b>Siguiendo la pista</b>
+</p>
+
+## Descripción:
+#### Desafío 3: ¡Siguiendo la pista de la IA ΩMEGA!
 
 La IA maligna ΩMEGA está causando problemas en el sistema de control de la empresa. Estamos siguiendo su rastro y necesitamos averiguar cuántos pasos ha tomado para llegar a la salida (ya sea por la izquierda o por la derecha).
 
@@ -60,3 +71,6 @@ Resultado: 2
 Accede a este [trace.txt](trace.txt). Tiene una lista de los movimientos que realizó ΩMEGA separados por salto de línea. Necesito que calcules los pasos que necesito ΩMEGA para salir de **cada instrucción por línea**, que **sumes todos los resultados** y me digas el resultado final de pasos que necesito ΩMEGA en total **y el resultado de la última línea, separado por guión**.
 
 Por ejemplo, si necesitó 99 pasos en total sumándo los pasos de cada línea y para la instrucción de la última línea necesitó 13 pasos entonces la solución a enviar sería **submit 99-13**
+
+## Solución:
+[OmegaSteps.js](OmegaSteps.js "OmegaSteps.js")
